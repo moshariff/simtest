@@ -23,7 +23,10 @@ public class SimDetailsController
 		System.out.println("in right class");
 		return "true";
 	}
+<<<<<<< HEAD
 
 //this is the first changes i did
 
+=======
+>>>>>>> b7e1f3ec7d05c38f79e923208959263da07e1df9
 }
